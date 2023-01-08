@@ -2,7 +2,7 @@ export default{
     name: 'product',
     title: 'Product',
     type: 'document',
-    field: [
+    fields: [
         {
             name:'image',
             title:'Image',
