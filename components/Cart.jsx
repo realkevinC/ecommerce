@@ -45,7 +45,7 @@ const Cart = () => {
                       <span className='plus' onClick={incQty}><AiOutlinePlus/></span>
                     </p>
                   </div>
-                  <button type='button' className=''></button>
+                  <button type='button' className='remove-item' onClick=''><TiDeleteOutline/></button>
                 </div>
               </div>
             </div>
