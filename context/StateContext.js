@@ -90,6 +90,7 @@ export const StateContext= ({children}) =>{
             setTotalPrice,
             setTotalQuantities 
             }}>
+              
             {children}
         </Context.Provider>
     )
